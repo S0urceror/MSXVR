@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Volumes/nfs-share/openMSXVR'
+g++ test.cpp MSXVR.cc i2c.cc gpio.cc -li2c -o openmsxvr
+make: Leaving directory `/Volumes/nfs-share/openMSXVR'
+ 

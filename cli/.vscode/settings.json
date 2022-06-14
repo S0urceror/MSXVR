@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "memory": "cpp",
+        "debug.h": "c"
+    }
+}
