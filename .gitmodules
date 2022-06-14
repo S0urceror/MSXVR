@@ -1,3 +1,6 @@
 [submodule "MSXVR.wiki"]
 	path = MSXVR.wiki
 	url = https://github.com/S0urceror/MSXVR.wiki.git
+[submodule "openMSXVR"]
+	path = openMSXVR
+	url = https://github.com/S0urceror/openMSXVR.git
