@@ -1,3 +1,6 @@
+# the copy of the RPI docker build environment
+docker
+
 # General
 .DS_Store
 .AppleDouble
