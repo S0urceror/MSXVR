@@ -1,5 +1,8 @@
 # the copy of the RPI docker build environment
 docker
+docs
+disk-images
+ovrs
 
 # General
 .DS_Store

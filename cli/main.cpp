@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <string>
 #include <iostream>
-#include "lib/MSXVR.hh"
+#include "../lib/MSXVR.hh"
 
 openmsx::MSXVR msxvr;
 
